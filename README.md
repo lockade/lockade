@@ -4,7 +4,7 @@ I'm currently working on 🌱 Agroforce - Software de Gestão de Produção 🌱
 
 ### Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,go,c,js,vuejs,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,go,c,js,vuejs,svelte)](https://github.com/lockade)
 <!--
 **lockade/lockade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
